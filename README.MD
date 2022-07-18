@@ -34,3 +34,6 @@ Underline 2
 - <a href="http://google.com">Esto es un link HTML</a>
 - [Esto es un link en Markdown](http://google.com)
 - [Esto es un link al index](index.html)
+
+# Imágenes
+![Logo GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)
